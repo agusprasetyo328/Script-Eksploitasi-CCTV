@@ -1,5 +1,5 @@
 # Alat Eksploitasi CCTV
-![Logo](logo.png)
+![Logo](Screenshot_2023-07-23_09-57-38.png)
 ## Gambaran Umum
 Script ini dirancang untuk mengeksploitasi kamera CCTV rentan dari merek Hikvision. Ini menyediakan berbagai fungsionalitas untuk mengumpulkan host CCTV, memindai host yang rentan, dan mengeksploitasi mereka. Harap diperhatikan bahwa menggunakan alat ini untuk mengeksploitasi kamera CCTV tanpa izin yang tepat mungkin ilegal dan tidak etis. Gunakan dengan bertanggung jawab hanya pada sistem yang Anda miliki atau memiliki izin eksplisit untuk diuji.
 ## Persyaratan
