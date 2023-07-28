@@ -14,10 +14,8 @@ import json
 import censys
 import censys.ipv4
 from censys.base import CensysException
-
 global path
 global host
-
 t = Terminal()
 path = os.path.abspath(os.path.dirname(sys.argv[0]))
 userID = ""
@@ -91,11 +89,6 @@ def gather_host_censys():
                     cen.write("\n")
         except CensysException:
             pass
-                
-                
-    
-
-
 
 def mass_exploit():
     #   VERY DANGEROUS
@@ -345,7 +338,6 @@ def main():
     except KeyboardInterrupt:
         print t.red("\n[---]exiting now[---]")
 main()
-
 
 
 
