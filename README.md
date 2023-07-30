@@ -29,7 +29,6 @@ Alat ini menyediakan beberapa opsi untuk berinteraksi dengan kamera CCTV yang re
 Alat ini hanya untuk tujuan pendidikan. Penggunaan atau akses tidak sah ke kamera CCTV ilegal dan tidak etis. Gunakan dengan bertanggung jawab hanya pada sistem yang Anda miliki atau memiliki izin eksplisit untuk diuji.
 ## Lisensi
 Alat ini dilisensikan di bawah [Lisensi MIT](LICENSE).
-## Pengakuan
 Alat ini terinspirasi dari penelitian keamanan dan kebutuhan untuk meningkatkan kesadaran tentang pentingnya mengamankan perangkat IoT. Terima kasih khusus kepada penulis dan kontributor dari pustaka dan kerangka kerja yang digunakan.
 ---
 Pastikan Anda memiliki kunci API yang diperlukan dan ikuti panduan yang disediakan untuk menggunakan alat ini dengan bertanggung jawab. Jika Anda menghadapi masalah atau memiliki saran, jangan ragu untuk menghubungi pengembang atau membuka masalah di repositori GitHub. Selamat mencoba!
